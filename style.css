@@ -3,10 +3,6 @@
     margin: 0;
 }
 
-body {
-    margin: 0;
-}
-
 header {
     position: fixed;
     width: 100%;
@@ -29,7 +25,6 @@ header #logo img{
     left: 0;
     width: auto;
     height: auto;
-    margin: 0;
     max-width: 75px;
     max-height: 75px;
 }
